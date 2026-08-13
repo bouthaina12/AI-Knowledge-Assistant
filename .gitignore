@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables / API keys
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Vector databases / generated data
+chroma_db/
+chromadb/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
