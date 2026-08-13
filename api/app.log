@@ -71,3 +71,41 @@ INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1
 INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
 INFO:root:Session ID: 79a4855d-5bc1-4f9d-ba92-2f6a0a588359, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: None, User Query: hello, Model: gemini-3-flash-preview
+INFO:root:Session ID: b3d6d3fa-57b4-45aa-aaa6-49c6d5216772, AI Response: Hello! How can I help you today? 
+
+I have information about GreenGrow Innovations' **EcoHarvest System**, including its:
+* **AI-powered control unit** for real-time decision-making.
+* **Smart irrigation module** that reduces water usage by up to 40%.
+* **Soil health management** using advanced sensors for nutrient monitoring.
+* **Automated harvesting** using computer vision and robotics.
+* **Impact on crop yields**, which can increase by 20-30%.
+
+Feel free to ask any questions you have about these features or how the system works!
+INFO:root:Session ID: b3d6d3fa-57b4-45aa-aaa6-49c6d5216772, User Query: what is greengrow, Model: gemini-3-flash-preview
+INFO:root:Session ID: b3d6d3fa-57b4-45aa-aaa6-49c6d5216772, AI Response: Based on the text provided, **GreenGrow Innovations** is a company in the agricultural industry. They are the creators of the **EcoHarvest System**, which was introduced in 2018.
+
+The company focuses on developing integrated technology systems designed to:
+*   **Optimize crop growth** through real-time data analysis.
+*   **Reduce resource consumption**, such as water usage (their smart irrigation module can reduce water use by up to 40%).
+*   **Automate harvesting processes** using AI and robotics.
+*   **Improve soil health and biodiversity** through managed crop rotation.
+INFO:root:Session ID: b3d6d3fa-57b4-45aa-aaa6-49c6d5216772, User Query: is it a good company , Model: gemini-3-flash-preview
+INFO:root:Session ID: b3d6d3fa-57b4-45aa-aaa6-49c6d5216772, AI Response: Based on the context provided, GreenGrow Innovations is presented as a highly successful and innovative company in the agricultural industry. Here are a few reasons why it is portrayed positively:
+
+*   **Industry Reputation:** Its EcoHarvest System has been "hailed as a game-changer" since its introduction in 2018.
+*   **Efficiency and Resource Savings:** The company's technology is proven to significantly reduce resource consumption, specifically reducing water usage by up to 40% compared to traditional methods.
+*   **Technological Leadership:** They use advanced AI-powered control units and real-time data analysis to automate harvesting and optimize crop growth.
+*   **Commitment to Improvement:** The company continues to refine its systems by adding new features, such as weather forecasting integration and modules to improve soil health and biodiversity through crop rotation.
+
+While the text focuses on the company's technological success and environmental benefits, it suggests they are a leader in sustainable and high-tech farming.
+INFO:root:Session ID: None, User Query: do you remember my questions about greengrow, Model: gemini-3-flash-preview
+INFO:root:Session ID: 64a90b8f-967a-4b82-8712-d69db94015d7, AI Response: As an AI, I don’t have a memory of our past conversations once a session ends. However, I have information about **GreenGrow Innovations** and their **EcoHarvest System** right here in our current context.
+
+Based on that information, I can tell you about:
+*   The **AI-powered control unit** that processes sensor data.
+*   The **smart irrigation module** that can reduce water usage by up to 40%.
+*   Recent updates like **weather forecasting integration** and **crop rotation management**.
+*   The system's history since its introduction in **2018**.
+
+Would you like to dive into one of those topics, or do you have a specific question about how the system works?
